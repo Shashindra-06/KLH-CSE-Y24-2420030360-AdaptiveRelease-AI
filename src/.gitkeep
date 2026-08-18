@@ -1,0 +1,14 @@
+$folders = @(
+    "src",
+    "ml",
+    "k8s",
+    "monitoring",
+    "tests",
+    "docs",
+    ".github\workflows"
+)
+
+foreach ($folder in $folders) {
+    New-Item -ItemType Directory -Force -Path $folder | Out-Null
+    New-Item -ItemType File -Force -Path "$folder\.gitkeep" | Out-Null
+}
