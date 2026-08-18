@@ -1,17 +1,25 @@
  
 DEPARTMENT OF CSE
+
 PROJECT ABSTRACT SUBMISSION
-COURSE: ENGINEERING CAPSTONE PROJECT -1(23IE4053R/23IE4053A)                            A.Y. 2026 - 2027
+
+COURSE: ENGINEERING CAPSTONE PROJECT -1(23IE4053R/23IE4053A) 
+
+A.Y. 2026 - 2027
+
 TITLE OF THE PROJECT	
 
 AI-Driven Adaptive Canary Deployment and Release Risk Prediction for Cloud-Native Applications
 
 S. No.	University ID	Name
-1	2420030360	Pakkiru Shashindra Reddy
-2	2420090124	Chandu Gnana Sree Susheel
-3	2420030724	Padiga Tejesh
 
-Name of the Guide	Rajkumar Patil 
+1.	2420030360	Pakkiru Shashindra Reddy
+
+2.	2420090124	Chandu Gnana Sree Susheel
+
+3.	2420030724	Padiga Tejesh
+
+Name of the Guide: Rajkumar Patil 
 
 
 
